@@ -180,4 +180,8 @@
 .sza-row{
     margin-top: 20px;
 }
-
+.caption{
+    font-family:"Comfortaa";
+        color: rgb(117, 117, 117);
+        margin-top: 10px;
+}
